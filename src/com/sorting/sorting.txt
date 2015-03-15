@@ -1,0 +1,81 @@
+(java алгоритмы сортировки)
+*** (Алгоритмы/Сортировка массива) http://edunow.su/site/content/algorithms/sortirovka_massiva
+    (Алгоритм сортировки) https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8
+*	(Сортировка в Java - легко!) http://www.javaportal.ru/java/articles/sort.html
+
+(https://mail.yandex.ua/neo2/#message/2370000004804824575)
+    (Использование коллекций в Java. Set) http://www.javaprobooks.ru/java-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/java-collections-set-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-java.html
+    (Коллекции (Collections) в Java. Set) http://www.seostella.com/ru/article/2012/08/08/kollekcii-collections-v-java-set.html
+    (Накладные расходы памяти у коллекций) http://habrahabr.ru/post/159557/
+(90+ вопросов на собеседование по Java Collection API) http://habrahabr.ru/post/232311/
+(Коллекции Java (Java Collections Framework)) http://appliedjava.wordpress.com/2010/09/23/java-collections-framework/
+
+
+(java Сортировка массива)
+*** (Урок 11. Сортировка массива в Java) http://study-java.ru/uroki-java/urok-11-sortirovka-massiva/
+    (Сортировка массива Java) http://pro-java.ru/java-dlya-nachinayushhix/sortirovka-massiva-java/
+**  (Массивы в Java) http://kostin.ws/java/java-arrays.html
+    (Сортировка и упорядочивание. Интерфейсы Comparable и Comparator) http://echuprina.blogspot.com/2012/02/comparable-comparator.html
+    (Непрактичные сортировки – бессмысленные и беспощадные) http://habrahabr.ru/post/198114/
+    (Сортировка в Java) http://www.javaspecialist.ru/2012/02/java.html
+    (Java »  сортировка ArrayList сущностей по полю/члену) http://www.askdev.ru/java/1659/%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-ArrayList-%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D0%BF%D0%BE-%D0%BF%D0%BE%D0%BB%D1%8E-%D1%87%D0%BB%D0%B5%D0%BD%D1%83/
+    (Быстрая сортировка (QSort)(реализация на языке Java)) http://cybern.ru/qsort-java.html
+    (java Сортировка) http://books.google.com.ua/books?id=FpueE_bteEcC&pg=PA112&lpg=PA112&dq=java+%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&source=bl&ots=bhM4EpcKAx&sig=q2MdbJ3Jig5WUKzJxylGcWVYfcY&hl=uk&sa=X&ei=MMPvU6CyDMbnyQPpvYHIAw&ved=0CCIQ6AEwATgU#v=onepage&q=java%20%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0&f=false
+
+(java 7 сортировка)
+(Новое в Java 8) http://habrahabr.ru/post/216431/
+(Using Lambda Expression to sort a List in Java 8 using Netbeans Lambda Support) http://blog.sanaulla.info/2013/03/11/using-lambda-expression-to-sort-a-list-in-java-8-using-netbeans-lambda-support/
+(Java 8 – Powerful Comparison with Lambdas) http://www.baeldung.com/java-8-sort-lambda
+
+(java запустить много отдельных потоков)
+  (Многопоточность в Java) http://habrahabr.ru/post/164487/
+  (Вообще категорически нельзя в UI-потоке делать какие-то "длинные" вычисления...) http://hashcode.ru/questions/84513/java-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81-%D0%B2-%D1%84%D0%BE%D0%BD%D0%B5-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BC
+* (Одновременный запуск параллельных потоков) http://www.javenue.info/post/41
+
+(java запускать sound в потоках)
+(Запись звуковых данных в файл) http://javatalks.ru/topics/10648?page=1#47816
+(sound - Работа со звуком в Java) http://hashcode.ru/questions/18294/sound-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81%D0%BE-%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC-%D0%B2-java
+
+(java потоки общий ресурс)
+(java - Почему потоки не работают параллельно?) http://hashcode.ru/questions/230142/java-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8-%D0%BD%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE
+(Как послать сообщение из созданного потока в основной поток?) http://rsdn.ru/forum/java/2502133.all
+(23.2 Thread States: Life Cycle of a Thread) http://www.deitel.com/articles/java_tutorials/20051126/JavaMultithreading_Tutorial_Part2.html
+
+(Заметки о синхронизации. Deadlock) http://habrahabr.ru/post/119438/
+(Потоки и Блокировки) http://spec-zone.ru/RU/Java/JLS/1/17.doc.html
+(ПОТОКИ ВЫПОЛНЕНИЯ) http://www.bsu.by/Cache/pdf/508353.pdf
+
+..........................................................
+(java потоки пример взаимоблокировка)
+(Теория и практика Java: Пулы потоков и очередь действий) http://www.ibm.com/developerworks/ru/library/j-jtp0730/
+(Лекция 5: Организация вычислительного процесса) http://www.intuit.ru/studies/courses/631/487/lecture/11055?page=7
+(Потоки и синхронизация. Дедлок) http://www.sql.ru/forum/971438/potoki-i-sinhronizaciya-dedlok
+(Решение 11 распространенных проблем в многопоточном коде) http://www.cyberguru.ru/microsoft-net/csharp-net/multithread-code-page6.html
+(Взаимоблокировки в статических конструкторах) http://sergeyteplyakov.blogspot.com/2013/06/blog-post_28.html
+(Потоки и замки) http://www.uni-vologda.ac.ru/java/jls/17-doc.htm
+(Основы потоков * Использование TimerTask) http://alfalavista.ru/index.php/2013-06-18-22-25-47/363-potoki-java
+(java потоки restart)
+(Многоразовый запуск потока) http://forum.sources.ru/index.php?showtopic=258705
+(Справочник по java * Потоки) http://darkraha.com/rus/java/api/jcls04.php
+(java приостановка потока)
+*** (приостановка и возобновление потока) http://www.sql.ru/forum/537603/priostanovka-i-vozobnovlenie-potoka
+
+
+... (Java Performance - Memory and Runtime Analysis - Tutorial) http://www.vogella.com/tutorials/JavaPerformance/article.html
+... (JVM maximum size (32bit/64bit)) http://www.avricot.com/blog/?post/2010/05/03/Get-started-with-java-JVM-memory-%28heap%2C-stack%2C-xss-xms-xmx-xmn...%29
+... (Java. Остановись задача) http://habrahabr.ru/post/133413/
+    (Прерывает ли поток метод interrupt()?) http://javatalks.ru/topics/32561
+    (...) http://docs.oracle.com/javase/tutorial/essential/concurrency/interrupt.html
+    (звуковые эффекты для игр)
+    (Коллекция звуковых эффектов из игр (WAV, MP3, OGG)) http://rutracker.org/forum/viewtopic.php?t=1434915
+    (Коллекция звуковых эффектов) http://www.parkov3.narod.ru/
+    (Тема: Звуковые эффекты  (Прочитано 8855 раз)) http://forum.hellroom.ru/index.php?topic=4394.0
+
+(problems with java3D lib configuration) http://stackoverflow.com/questions/4098161/problems-with-java3d-lib-configuration
+(Eclipse, Java3d, and java.library.path) http://www.filsa.net/2008/07/17/eclipse-java3d-and-javalibrarypath/
+(How to set the java.library.path in intelliJ Idea) http://stackoverflow.com/questions/19308010/how-to-set-the-java-library-path-in-intellij-idea
+(java 3d hello world example frame)
+(Java 3D is not a newcomer to the Java API world...) http://www2.sys-con.com/ITSG/virtualcd/Java/archives/0802/pilone/index.html
+(3D Reconstruction of Medical Images Using Java3D) https://www.hochschule-trier.de/uploads/tx_rfttheses/GoretzkiOliver_Bachelor.pdf
+(I am new to Java3D programming. Please have a look at the following code.) http://www.coderanch.com/t/273926/java/java/needed-run-Java-program
+(...) http://pastebin.com/VDx3Rb03

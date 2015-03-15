@@ -1,0 +1,104 @@
+http://answerstop.org/question/50429/ball-to-ball-collision-detection-and-handling
+http://www.sql.ru/forum/325560/struktura-klassov-i-ih-vzaimosvyaz
+http://bestpupils.ru/stati/150-zadacha-ob-uprugom-stolknovenii-sharov
+http://pmg.org.ru/nehe/nehe30.htm
+http://answerstop.org/question/48659/collision-detection-between-two-images-in-java
+http://src-code.net/opredelenie-stolknovenij-i-predstavlenie-obektov-v-2d-razrabotka-igr-dlya-os-android/
+http://javatalks.ru/topics/9443
+http://www.meteolab.ru/publish/2007-04-04.pdf
+http://sourceforge.net/p/math4gd2d/code/41/tree/trunk/src/main/java/math4gd2d/
+http://www.gamedev.ru/projects/forum/?id=167164
+http://habrahabr.ru/post/131931/
+http://www.jbox2d.org/
+https://github.com/sgothel/jogl-demos/tree/master/src/jbullet/src/javabullet/demos/
+http://dlang.ru/41-kompaktnyj-fizicheskij-dvizhok-dchip
+http://stackoverflow.com/questions/3676662/physics-with-jogl-java-opengl#3676662
+https://toster.ru/q/73004
+http://gcmob.ru/load/engine/lib/box2d/10-1-0-8
+http://habrahabr.ru/post/127808/
+http://habrahabr.ru/post/88254/
+http://www.google.com.ua/webhp?nord=1#nord=1&q=%D1%81%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5+%D1%88%D0%B0%D1%80%D0%BE%D0%B2+java&start=20
+http://www.slideshare.net/paveltitkov/java-concurrency-10463655
+http://habrahabr.ru/post/148325/
+http://habrahabr.ru/post/147691/
+http://www.cyberforum.ru/opengl/thread680359.html
+http://habrahabr.ru/post/160547/
+http://commons.apache.org/proper/commons-pool/examples.html
+
+
+(Структура классов и их взаимосвязь) http://www.sql.ru/forum/325560/struktura-klassov-i-ih-vzaimosvyaz
+(...) http://introcs.cs.princeton.edu/java/15inout/
+
+(Игровой сервер как учебная дисциплина) http://dtf.ru/articles/print.php?id=72265
+(Задача об упругом столкновении шаров) http://bestpupils.ru/stati/150-zadacha-ob-uprugom-stolknovenii-sharov
+(Ball to Ball Collision - Detection and Handling) http://answerstop.org/question/50429/ball-to-ball-collision-detection-and-handling
+(ball collision java code)
+*** (java-collision-detection-source-code) https://code.google.com/p/java-collision-detection-source-code/source/browse/trunk/Collision-detection-bounce-java/?r=3#Collision-detection-bounce-java%2Fsrc
+*   (Java Game Programming * Introduction - The World Of Bouncing Balls) http://www.ntu.edu.sg/home/ehchua/programming/java/J8a_GameIntro-BouncingBalls.html
+(CollidingBalls.java) http://introcs.cs.princeton.edu/java/15inout/CollidingBalls.java
+(Ball to Ball Collision - Detection and Handling) http://stackoverflow.com/questions/345838/ball-to-ball-collision-detection-and-handling
+(When Worlds Collide: Simulating Circle-Circle Collisions) http://gamedevelopment.tutsplus.com/tutorials/when-worlds-collide-simulating-circle-circle-collisions--gamedev-769
+(how to convert applet to a JPanel or JFrame) http://www.javaprogrammingforums.com/java-theory-questions/10599-how-convert-applet-jpanel-jframe.html
+(Converting from Applet to JFrame) http://www.java-gaming.org/index.php?topic=32750.0
+
+
+
+
+
+(архив звуков скачать * мяч катится)
+* (Тряска) http://noise.podst.ru/?tag=нереальные+звуки&page=24
+* (Balls_Vibration.mp3) http://www.podst.ru/pix/user_files/2/7359/Balls_Vibration.mp3
+  http://noise.podst.ru/?s=мяч+катится&page=1
+  http://aparkov.ru/sound/
+  http://aparkov.ru/event/kazino/
+  http://aparkov.ru/event/sport-igry-otdyx/
+  http://zvuki-tut.narod.ru/sport.htm
+
+(редактор склеить вырезать mp3)
+(Аудио. Какой программой можно вырезать,склеить аудио? И еще сделать плавное затухание песни....) http://otvet.mail.ru/question/62150927
+* (Audacity) http://sourceforge.net/projects/audacity/?source=typ_redirect
+* (FAQ:Installation, Startup and Plug-ins) http://manual.audacityteam.org/o/man/faq_installation_and_plug_ins.html#lame
+* (libmp3lame-win-3.98.2.zip) http://lame.buanzo.org/
+
+(бильярдный шар в фотошопе)
+  https://www.google.com.ua/search?q=бильярдный+шар+в+фотошопе&tbm=isch&tbo=u&source=univ&sa=X&ei=kgwDVJ2aNYLnygPm1IKACQ&ved=0CBsQsAQ&biw=1366&bih=657
+* http://gfxworld.ucoz.com/_nw/9/51773716.jpg
+* http://arttower.ru/forum/uploads/monthly_05_2010/post-11692-1274899228.jpg
+  https://www.google.com.ua/search?q=бильярд&tbm=isch&tbo=u&source=univ&sa=X&ei=UQwDVMSTEOPqyQPbwYLoBw&sqi=2&ved=0CBsQsAQ&biw=1366&bih=657
+* http://playtabs.org/images/1349704137flick-pool-bilyard_3.jpg
+* http://s1.ru.i.alawar.ru/images/games/pool-house/pool-house-screenshot0.jpg
+* http://zerolayer.ru/others/145-iskhodnik_psd__biljardnye_shary.html
+* http://art8you.net/psd/billiards-balls-ivories/
+* http://leozerosty.deviantart.com/art/Bolas-De-Billar-123-92272444
+  http://sv-img.info/content/da/id-526
+  http://www.ps-webdesign.ru/view_lesson_effect8803.php?id=7
+  (Векторный клипарт - Бильярд, бильярдные шары) http://alldaydesing.net/vektornye-kliparty/zdorove-sport/71535-vektornyy-klipart-bilyard-bilyardnye-shary.html
+* (Клипарт - Бильярд - увлекательная игра) http://allstyling.ru/50216-klipart-bilyard-uvlekatelnaya-igra.html
+  http://www.freebievectors.com/ru/vektornaja-grafika/57043/scheibej-stol-cue-sariki-kartinki/
+  http://www.freebievectors.com/ru/vektornaja-grafika/57035/scheibej-stol-cue-sariki-kartinki/
+  http://www.easyvectors.com/browse/cartoons/scheibej-pool-table-cue-balls-clip-art
+* (Игры шарики Картинки Просмотреть бесплатный вектор) http://www.freebievectors.com/ru/kartinka/30439/igry-sariki-kartinki-igra/
+                                                       http://www.easyvectors.com/browse/other/game-marbles-clip-art
+** (Играть в бильярд) http://chulanchik.ucoz.com/index/0-46
+                      http://studportal.net.ua/files/games/Billiards.swf
+  http://s47.radikal.ru/i116/1103/e5/6517e2b275c7.png
+  http://i.allday.ru/uploads/posts/1186687178_untitled1.jpg
+  http://3dpag.ru/index.php?newsid=52264
+* (Шаблоны PSD * Бильярдные шары) http://art8you.net/psd/billiards-balls-ivories/
+                                  http://leozerosty.deviantart.com/art/Bolas-De-Billar-123-92272444
+
+(photoshop уменьшить размер изображения без потери качества)
+*** (Как уменьшить фото без потери качества) https://www.youtube.com/watch?v=C6lg11mODnY
+
+
+
+*** (module: java memory) http://kharkovitcourses.blogspot.com/2012/08/module-java-memory.html
+                          https://www.google.com.ua/search?q=java+heap+memory+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&biw=1366&bih=657&tbm=isch&tbo=u&source=univ&sa=X&ei=X2QPVMxJg4LMA5C5gqAO&ved=0CCcQsAQ
+http://javahash.com/java-memory-model-structures/
+*** (Анализ утечек PermGen памяти в Java) http://habrahabr.ru/post/222443/
+http://habrahabr.ru/post/169869/
+*   (Java для школьников: обучение через создание игр) http://habrahabr.ru/company/1c_club/blog/236177/
+(http://habrahabr.ru/company/1c_club/blog/236177/) https://docs.google.com/document/d/18rQSJVQ9vn5Ntza3MCXRxjDGWvzwa1gV1x3dRXrsKjg/edit#heading=h.rnzmbqkv4m9x
+*   (Маленькие хитрости Java) http://habrahabr.ru/post/132241/
+(Алгоритмы сборки муссора, эффективные с точки зрения кеша) http://bouillon.math.usu.ru/articles/cl.pdf
+
